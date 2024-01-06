@@ -4,7 +4,6 @@
 - 🌱 Estudando JavaScript, TypeScript, ReactJs
 - 📫 Para me achar: bruno.terceti@gmail.com
 
-https://www.linkedin.com/in/bruno-terceti-02917a297/
 
 <div style="display: inline_block"><br>
   <img align="center" alt="bruno-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
