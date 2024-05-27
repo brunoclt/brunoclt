@@ -1,7 +1,7 @@
 ### Olá! Sou o Bruno Terceti! 😉
 
 - 🔭 Estou trabalhando com front-end!
-- 🌱 Estudando JavaScript, TypeScript, ReactJs
+- 🌱 Estudando JavaScript, TypeScript, ReactJs e NodeJs!
 - 📫 Para me achar: bruno.terceti@gmail.com
 
 
