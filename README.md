@@ -1,8 +1,8 @@
 ### Olá! Sou o Bruno Terceti! 👋
 
-💡 **Atualmente focando em Java e JavaScript**  
+💡 **Atualmente focando em JavaScript**  
 
-- 🌱 Aprendendo **Java, JavaScript, TypeScript, ReactJs e NodeJs**
+- 🌱 Aprendendo **JavaScript, TypeScript, ReactJs e NodeJs**
 - 📫 Entre em contato: bruno.terceti@gmail.com
 
 ---
