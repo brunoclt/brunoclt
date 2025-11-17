@@ -2,7 +2,8 @@
 
 💡 **Atualmente focando em JavaScript e Python**  
 
-- 🌱 Aprendendo **JavaScript, Python, HTML e CSS**
+- 🚀 Desenvolvendo projetos em **JavaScript** e **Python**
+- 📘 Criando interfaces com **HTML** e **CSS**
 - 📫 Entre em contato: bruno.terceti@gmail.com
 
 ---
@@ -18,7 +19,7 @@
 
 ---
 
-### 💻 Tecnologias e Linguagens
+### 💻 🛠️ Tecnologias que utilizo
 
 <div style="display: inline_block"><br>
   <img align="center" alt="bruno-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
