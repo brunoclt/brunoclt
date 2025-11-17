@@ -2,7 +2,7 @@
 
 💡 **Atualmente focando em JavaScript e Python**  
 
-- 🌱 Aprendendo **JavaScript, Python**
+- 🌱 Aprendendo **JavaScript, Python, HTML e CSS**
 - 📫 Entre em contato: bruno.terceti@gmail.com
 
 ---
