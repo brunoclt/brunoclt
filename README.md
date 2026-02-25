@@ -1,5 +1,4 @@
 ### Olá! Sou o Bruno Terceti! 👋
-> *"Code never lies."*
 
 💡 **Atualmente focando em JavaScript e Python**  
 
