@@ -1,5 +1,5 @@
 ### Olá! Sou o Bruno Terceti! 👋
-
+> 💬 *"Code never lies."*
 💡 **Atualmente focando em JavaScript e Python**  
 
 - 🚀 Desenvolvendo projetos em **JavaScript** e **Python**
