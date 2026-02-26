@@ -16,42 +16,14 @@
 
 ### 💻 🛠️ Tecnologias que utilizo
 
-#### 🎨 Front-end
 <div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="30" width="40" 
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" 
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" 
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="bruno-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="bruno-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="bruno-SQLite" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
+  <img align="center" alt="bruno-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="bruno-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="bruno-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
-
-📌 **HTML** – 🟡 Intermediário  
-📌 **CSS** – 🟡 Intermediário  
-📌 **JavaScript** – 🟢 Básico  
-
----
-
-#### ⚙️ Back-end
-<div style="display: inline_block"><br>
-  <img align="center" alt="NodeJS" height="30" width="40" 
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Python" height="30" width="40" 
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
-
-📌 **Node.js** – 🟢 Básico  
-📌 **Python** – 🟢 Básico  
-
----
-
-#### 🗄️ Banco de Dados
-<div style="display: inline_block"><br>
-  <img align="center" alt="SQLite" height="30" width="40" 
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
-</div>
-
-📌 **SQLite** – 🟢 Básico  
 
 ---
 
